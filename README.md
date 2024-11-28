@@ -18,7 +18,7 @@ Active domain adaptation has shown promising results in enhancing unsupervised d
 We run our base DA methods based on the implementation of [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library).
 We use the default setting the in their [example codes](https://github.com/thuml/Transfer-Learning-Library/tree/master/examples/domain_adaptation/image_classification) to run DANN.
 
-We provide the extracted representations for Ar-> Cl in [here](https://drive.google.com/drive/folders/10L36ROhgzUVsYXHE941b7OvGurMBaozs?usp=sharing)
+We provide the extracted representations for Ar-> Cl in [here](https://drive.google.com/drive/folders/10L36ROhgzUVsYXHE941b7OvGurMBaozs?usp=sharing).
 
 
 
